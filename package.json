@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url ./storytelling-homework"
+    "build": "parcel build src/index.html --out-dir docs --public-url /storytelling-homework"
   },
   "jest": {
     "setupFiles": [
